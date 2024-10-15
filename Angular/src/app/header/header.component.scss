@@ -1,0 +1,11 @@
+:host ::ng-deep .p-menubar {
+    justify-content: center; /* Centraliza os itens */
+  }
+  
+  :host ::ng-deep .p-menubar-start {
+    margin-right: auto;
+  }
+  
+  :host ::ng-deep .p-menubar-end {
+    margin-left: auto;
+  }
